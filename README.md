@@ -48,7 +48,7 @@
    - [Modelo ER](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-entidade-relacionamento)
 - Livro:
    - [Sistemas de Banco de Dados](https://amzn.to/3XjPyE5)
-- O que é BigData?: [https://www.oracle.com/br/big-data/what-is-big-data/](https://www.oracle.com/br/big-data/what-is-big-data/)
+- ~O que é BigData?~: [https://www.oracle.com/br/big-data/what-is-big-data/](https://www.oracle.com/br/big-data/what-is-big-data/)
 - 4 Types of Big Data Technologies (+ Management Tools): [https://www.coursera.org/articles/big-data-technologies](https://www.coursera.org/articles/big-data-technologies)
 
 
